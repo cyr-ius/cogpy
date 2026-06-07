@@ -42,7 +42,6 @@ Homepage = "https://github.com/cyr-ius/insee-cogpy"
 
 [tool.setuptools]
 platforms = ["any"]
-include-package-data = true
 
 [tool.setuptools.packages.find]
 exclude = ["node_modules*"]
