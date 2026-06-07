@@ -1,11 +1,11 @@
-# cogpy
+# insee-cogpy
 
 Client Python asynchrone pour l'[API COG](https://portail-api.insee.fr) (Code Officiel Géographique) de l'INSEE — le référentiel officiel des entités géographiques françaises.
 
 ## Installation
 
 ```bash
-pip install cogpy
+pip install insee-cogpy
 ```
 
 ## Prérequis
