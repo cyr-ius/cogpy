@@ -30,6 +30,12 @@ dependencies    = [
     "aiohttp>=3.8.1",
 ]
 
+[project.optional-dependencies]
+dev = [
+    "pre-commit",
+    "ruff",
+]
+
 [project.urls]
 Homepage = "https://github.com/cyr-ius/cogpy"
 
