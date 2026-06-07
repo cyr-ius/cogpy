@@ -3,7 +3,7 @@ requires = ["setuptools","setuptools-scm", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name        = "cogpy"
+name        = "insee-cogpy"
 dynamic     = ["version"]
 license     = "GPL-3.0-or-later"
 description = "Code officiel geographique (COG) (fr)"
